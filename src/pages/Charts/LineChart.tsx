@@ -7,8 +7,8 @@ export default function LineChart() {
   return (
     <>
       <PageMeta
-        title="React.js Chart Dashboard | TailAdmin - React.js Admin Dashboard Template"
-        description="This is React.js Chart Dashboard page for TailAdmin - React.js Tailwind CSS Admin Dashboard Template"
+      title="Construction Management App |  Line Chart"
+      description="Explore various line chart components in the Construction Management App to visualize your data effectively."
       />
       <PageBreadcrumb pageTitle="Line Chart" />
       <div className="space-y-6">

@@ -6,11 +6,11 @@ export default function SignUp() {
   return (
     <>
       <PageMeta
-        title="React.js SignUp Dashboard | TailAdmin - Next.js Admin Dashboard Template"
-        description="This is React.js SignUp Tables Dashboard page for TailAdmin - React.js Tailwind CSS Admin Dashboard Template"
+      title="Construction Management App | Sign Up"
+      description="Sign up to access the Construction Management App and streamline your project workflows."
       />
       <AuthLayout>
-        <SignUpForm />
+      <SignUpForm />
       </AuthLayout>
     </>
   );
